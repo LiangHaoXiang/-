@@ -1,0 +1,6 @@
+G:\代码草稿\C#草稿2017\算法练习\算法练习\bin\Debug\算法练习.exe.config
+G:\代码草稿\C#草稿2017\算法练习\算法练习\bin\Debug\算法练习.exe
+G:\代码草稿\C#草稿2017\算法练习\算法练习\bin\Debug\算法练习.pdb
+G:\代码草稿\C#草稿2017\算法练习\算法练习\obj\Debug\算法练习.csprojResolveAssemblyReference.cache
+G:\代码草稿\C#草稿2017\算法练习\算法练习\obj\Debug\算法练习.exe
+G:\代码草稿\C#草稿2017\算法练习\算法练习\obj\Debug\算法练习.pdb
